@@ -1,2 +1,1 @@
-# SIPMA
-system informasi presensi mahasiswa
+Membuat Papan Catur Menggunakan PHP
